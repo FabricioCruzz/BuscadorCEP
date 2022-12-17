@@ -2,7 +2,7 @@
 
 Projeto simples construído em React utilizando a api da [ViaCep](http://viacep.com.br/).
 
-## Available Scripts
+## Scripts Disponíveis
 
 Na raiz do projeto digite o seguinte comando para rodar a aplicação:
 
@@ -14,6 +14,10 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar no seu naveg
 
 A página atualiza automaticamente ao salvar as alterações no código.
 Os erros podem ser visualizados no console.
+
+## Vercel
+
+Este projeto está na Vercel. [Venha conferir](https://buscador-cep-psi.vercel.app/)!
 
 ## Créditos
 
