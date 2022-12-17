@@ -19,4 +19,4 @@ Os erros podem ser visualizados no console.
 
 Este projeto foi desenvolvido seguindo a videoaula do [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador).
 
-Assista ao vídeo clicando [aqui](https://www.youtube.com/watch?v=oy4cbqE1_qc)
+Assista ao vídeo clicando [aqui](https://www.youtube.com/watch?v=oy4cbqE1_qc).
